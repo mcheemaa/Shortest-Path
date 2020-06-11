@@ -1,0 +1,8 @@
+4 6
+GingerbreadPlumTrees
+CandyCastle
+LicoriceCastle
+PeanutBrittleHouse
+2 0 2.7
+2 1 5.5
+2 3 inf
